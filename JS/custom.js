@@ -141,6 +141,8 @@ function handleSubmit(event) {
 			// Send the matching zodiac information
 			// to the display function.
 			displayHoroscope(zodiac);
+			// Show the results after the user submits the form.
+			result.style.display = "block";
 		}
 	}
 }
