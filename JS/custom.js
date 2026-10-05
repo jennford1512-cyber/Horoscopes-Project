@@ -123,6 +123,7 @@ const zodiacSymbol = document.querySelector("#symbol");
 const signResult = document.querySelector("#sign-result");
 const dateRange = document.querySelector("#date-range");
 const horoscope = document.querySelector("#horoscope");
+const result = document.querySelector(".result");
 
 // Create a function to handle the form submission.
 
